@@ -1,0 +1,74 @@
+[
+    {
+      "Time": "09:00:00",
+      "Currencies": "CHFINR",
+      "Rate": 500,
+      "Type":"Buy",
+      "OrderValue":"10",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    },
+    {
+      "Time": "09:00:01",
+      "Currencies": "CHFSGD",
+      "Rate": 1.384,
+      "Type":"Sell",
+      "OrderValue":"15",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    },
+    {
+      "Time": "09:00:02",
+      "Currencies": "USDSGD",
+      "Rate": 1.37,
+      "Type":"Buy",
+      "OrderValue":"9",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    },
+    {
+      "Time": "09:00:03",
+      "Currencies": "EURINR",
+      "Rate": 78.618,
+      "Type":"Sell",
+      "OrderValue":"18",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    },
+    {
+      "Time": "09:00:00",
+      "Currencies": "CHFINR",
+      "Rate": 70.799,
+      "Type":"Buy",
+      "OrderValue":"25",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    },
+    {
+      "Time": "09:00:01",
+      "Currencies": "CHFSGD",
+      "Rate": 102,
+      "Type":"Sell",
+      "OrderValue":"22",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    },
+    {
+      "Time": "09:00:02",
+      "Currencies": "USDSGD",
+      "Rate": 1.37,
+      "Type":"Buy",
+      "OrderValue":"26",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    },
+    {
+      "Time": "09:00:03",
+      "Currencies": "EURINR",
+      "Rate": 78.618,
+      "Type":"Sell",
+      "OrderValue":"13",
+      "Fradulant":"No",
+      "TotalAmount":"NA"
+    }
+]
