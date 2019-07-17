@@ -53,4 +53,25 @@ clear:both;
     margin:1%;
     padding:1%;
     border: 1px solid green;
+    position: relative;
+   
+}
+.service1
+{    background: #eee;
+    width:29%;
+    margin:1%;
+    padding:1%;
+    border: 1px solid green;
+
+}
+.service:hover:after{
+    content:"<span>Hello This is the service number</span>";
+    background: red;
+    display: inline-block;
+    z-index: 1;
+    position: absolute;
+    width: auto;
+    border-radius: 4px;
+    top: 100%;
+    
 }
